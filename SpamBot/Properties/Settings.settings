@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SpamBot.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Start_Spam" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Start Spam</Value>
+    </Setting>
+    <Setting Name="End_Spam" Type="System.String" Scope="User">
+      <Value Profile="(Default)">End Spam</Value>
+    </Setting>
+    <Setting Name="Exit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Exit</Value>
+    </Setting>
+    <Setting Name="SpamBot3000" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SpamBot3000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
